@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-12T16:29:55 IST" name="Default suite" finished-at="2022-05-12T16:29:55 IST" duration-ms="298">
+    <groups>
+    </groups>
+    <test started-at="2022-05-12T16:29:55 IST" name="Default test" finished-at="2022-05-12T16:29:55 IST" duration-ms="298">
+      <class name="com.apache.maven.Exeldatadriven">
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.apache.maven.Exeldatadriven@56620197]" started-at="2022-05-12T16:29:55 IST" name="loginTest" data-provider="loginData" finished-at="2022-05-12T16:29:55 IST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[waniriyanka@05gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7841909041]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.apache.maven.Exeldatadriven@56620197]" started-at="2022-05-12T16:29:55 IST" name="loginTest" data-provider="loginData" finished-at="2022-05-12T16:29:55 IST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[priyankawani1994@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@Anil7822]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.apache.maven.Exeldatadriven@56620197]" started-at="2022-05-12T16:29:55 IST" name="loginTest" data-provider="loginData" finished-at="2022-05-12T16:29:55 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anilsagar@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sagar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.apache.maven.Exeldatadriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
